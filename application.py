@@ -110,7 +110,7 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Congratulations - virajetech</h1>
+    <h1>Congratulations virajetech</h1>
     <p> welcome to virajetech</p>
   </div>
   
